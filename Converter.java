@@ -1,1 +1,1 @@
-public class converster {}
+public class converster {int j;}
